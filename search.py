@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC;
 
-driver = webdriver.Chrome(r"C:\Users\nafi.DESKTOP-Q4U6HNF\Desktop\chromedriver.exe");
+driver = webdriver.Chrome(r"Driver path");
 print("what do you want to search")
 print("--------------------------")
 y=input()
